@@ -123,7 +123,7 @@ SCRIPT. SCRIPT/VS is the main component of IBM's Document Composition Facility (
 [dog]: https://www.hankikoira.fi/sites/default/files/styles/breed_mobile_gallery_image/public/rodut/elokuu_72.jpg?itok=IJtvAmlC
 
 ## Exercise 4
-
+```
 public class Person
 {
 private string name;
@@ -141,4 +141,5 @@ public void GrowOlder()
 {
 this.age = this.age + 1;
 }
+```
 }
